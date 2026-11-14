@@ -1,0 +1,7 @@
+__pycache__/
+node_modules/
+.DS_Store
+Thumbs.db
+*.zip
+FDE*学习记录-*.json
+FDE*原始待恢复记录-*.json
